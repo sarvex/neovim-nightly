@@ -23,6 +23,7 @@ vim.opt.runtimepath = {
   vim.fn.stdpath 'data' .. '/after',
 }
 
+require('nightly')
+
 require("config.lazy")
 
-require('nightly')

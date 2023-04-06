@@ -3,6 +3,7 @@ return {
   tag = '0.1.1',
   dependencies = {
     'nvim-lua/plenary.nvim',
-    'BurntSushi/ripgrep'
+    'BurntSushi/ripgrep',
+    'nvim-tree/nvim-web-devicons'
   }
 }
